@@ -1,0 +1,6 @@
+C:\Users\mchittenden\source\repos\PolymorphismandInheritance\PolymorphismandInheritance\obj\Debug\PolymorphismandInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\PolymorphismandInheritance\PolymorphismandInheritance\bin\Debug\PolymorphismandInheritance.exe.config
+C:\Users\mchittenden\source\repos\PolymorphismandInheritance\PolymorphismandInheritance\bin\Debug\PolymorphismandInheritance.exe
+C:\Users\mchittenden\source\repos\PolymorphismandInheritance\PolymorphismandInheritance\bin\Debug\PolymorphismandInheritance.pdb
+C:\Users\mchittenden\source\repos\PolymorphismandInheritance\PolymorphismandInheritance\obj\Debug\PolymorphismandInheritance.exe
+C:\Users\mchittenden\source\repos\PolymorphismandInheritance\PolymorphismandInheritance\obj\Debug\PolymorphismandInheritance.pdb
