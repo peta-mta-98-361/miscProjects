@@ -62,8 +62,7 @@ namespace WorkingWithClasses
             obj5.Constitution = 10;
             obj5.Charisma = 10;
             obj5.Wisdom = 12;
-            obj5.Type = "Sword";
-            obj5.renameType("Club");
+            //obj5.renameType("Club");
             obj5.Display();
         }
     }
