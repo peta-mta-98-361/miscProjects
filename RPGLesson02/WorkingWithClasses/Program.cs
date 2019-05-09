@@ -56,7 +56,7 @@ namespace WorkingWithClasses
             obj5.Name = "Conan";
             obj5.Race = "Human";
             obj5.Profession = "Barbarian";
-            obj5.Strength = 45495616;
+            obj5.Strength = 16;
             obj5.Dexterity = 14;
             obj5.Intelligence = 8;
             obj5.Constitution = 10;
