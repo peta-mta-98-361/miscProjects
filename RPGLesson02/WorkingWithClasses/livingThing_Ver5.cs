@@ -499,8 +499,7 @@ namespace WorkingWithClasses
             }
 
         }
-
-        [DefaultValue("Sword")]
+        
         public string Type
         {
             get
@@ -509,8 +508,14 @@ namespace WorkingWithClasses
             }
             set
             {
-                    type = value;
-
+                if ((value == "") || (value == null))
+                {
+                    type = "Feather Duster";
+                }
+                else
+                {
+                       type = value;
+                }
             }
         }
 
